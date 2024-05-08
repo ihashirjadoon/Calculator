@@ -1,4 +1,4 @@
-echo "# Simple Calculator CLI
+# Simple Calculator CLI
 
 Welcome to the Simple Calculator CLI repository! This repository contains the source code for a basic command-line calculator built using Node.js and TypeScript.
 
@@ -22,13 +22,13 @@ To use the calculator, follow these steps:
 1. Clone the repository:
 
 \`\`\`bash
-git clone https://github.com/your-username/simple-calculator.git
+git clone https://github.com/ihashirjadoon/Calculator.git
 \`\`\`
 
 2. Navigate to the project directory:
 
 \`\`\`bash
-cd simple-calculator
+cd Calculator
 \`\`\`
 
 3. Compile TypeScript file:
@@ -51,10 +51,4 @@ node index.js
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-Feel free to customize this README according to your preferences. Happy calculating! 🧮✨" > README.md
-git init
-git add README.md
-git commit -m "Initial commit"
-git branch -M main
-git remote add origin https://github.com/your-username/simple-calculator.git
-git push -u origin main
+Feel free to customize this README according to your preferences. Happy calculating! 🧮✨
