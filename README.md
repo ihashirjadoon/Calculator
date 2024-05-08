@@ -47,8 +47,4 @@ node index.js
 6. Input two numbers and select the arithmetic operation you'd like to perform from the provided options.
 7. View the result and continue with more calculations or exit the calculator.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-Feel free to customize this README according to your preferences. Happy calculating! 🧮✨
